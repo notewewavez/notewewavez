@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notewewavez
 - 👀 I’m interested in becoming an indepented web developer.
-- 🌱 I’m currently learning javascript and html
+- 🌱 I’m currently learning c
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me discord #2431
 
